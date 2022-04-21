@@ -2,7 +2,7 @@
 
 ## Im a :satellite: Telecommunications Student and :computer: a self-taught Developer from :tunisia: Tunisia
 
-- 🔭 I’m currently working on **Management of resources and energy consumption in mobile networks**
+- 🔭 I’m currently working on **Management of resources and energy consumption in mobile networks (Iot)**
 - 🌱 I’m currently learning **Nextjs, TS and Testing**
 - 🤔 I’m looking for help with **Testing**
 - 💬 Ask me about **Javascript & React**
