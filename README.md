@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Wael Nalouti
 
-## Im a :satellite: Telecommunications Student and :computer: a self-taught Developer from :tunisia: Tunisia
+## Im a :satellite: Telecommunications Student and :computer: a self-taught Developer from :tunisia: TN
 
 - 🔭 I’m currently working on **Management of resources and energy consumption in mobile networks (Iot)**
 - 🌱 I’m currently learning **Nextjs, TS and Testing**
