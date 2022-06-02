@@ -6,7 +6,6 @@
 - 🌱 I’m currently learning **Nextjs, TS and Testing**
 - 🤔 I’m looking for help with **Testing**
 - 💬 Ask me about **Javascript & React**
-- 😄 Pronouns: **he/him**
 - ⚡ Fun fact: **I wish that the day lasts for 26 hours**
 
 <h3 align="left">Connect with me:</h3>
